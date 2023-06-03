@@ -320,11 +320,11 @@ function techquiz() {
         }
         event.preventDefault();
       } else {
-        // window.open('./report.html')
+        // window.open('Training-Program-Registration-Website/report.html')
         let index = sessionStorage.getItem("index");
         arr[index].techResult = score;
         localStorage.setItem("Users", JSON.stringify(arr));
-        window.open("../Home.html", "_self");
+        window.open("Training-Program-Registration-Website/Home.html", "_self");
         event.preventDefault();
       }
     });
