@@ -6,7 +6,7 @@ https://ahmadalshobaki20.github.io/Training-Program-Registration-Website/registe
 
 Hello everybody if you would like to see the result of my website follow the following instruction :
 
-1. You should start with register page then you must create any email for testing 
+1. You should start with register page then you must create any email for testing  (password must be contain capital latter and at least 8 charachters)
 ![Screenshot 2023-06-03 211416](https://github.com/AhmadAlshobaki20/Training-Program-Registration-Website/assets/127348872/8b247860-8985-47ed-a09e-6f8d3891993b)
 
 2. Login by using the email that you created
