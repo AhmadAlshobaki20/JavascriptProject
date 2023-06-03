@@ -4,21 +4,21 @@ let engbtn = document.getElementById("englishbuttun");
 if (engbtn !== null) {
   engbtn.addEventListener("click", function (e) {
     console.log(sessionStorage.getItem("index"));
-    window.open("https://github.com/AhmadAlshobaki20/Training-Program-Registration-Website/English.html", "_self");
+    window.open("../English.html", "_self");
   });
 }
 let techbtn = document.getElementById("techbtn");
 if (techbtn !== null) {
   techbtn.addEventListener("click", function (e) {
     console.log(sessionStorage.getItem("index"));
-    window.open("https://github.com/AhmadAlshobaki20/Training-Program-Registration-Website/technical.html", "_self");
+    window.open("../technical.html", "_self");
   });
 }
 let infbtn = document.getElementById("infobtn");
 if (infbtn !== null) {
   infbtn.addEventListener("click", function () {
     console.log("hee");
-    window.open("https://github.com/AhmadAlshobaki20/Training-Program-Registration-Website/Info.Html"), "_self";
+    window.open("../Info.Html"), "_self";
   });
 }
 let finish = document.getElementById("finsh");
