@@ -1,3 +1,3 @@
 # JavascriptProject
 
-# https://ahmadalshobaki20.github.io/JavascriptProject/
+https://ahmadalshobaki20.github.io/JavascriptProject/register.html
